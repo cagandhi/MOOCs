@@ -1,5 +1,5 @@
 # MOOCs
-This repository contains files containing assignments for MOOCs completed by me.
+This repository contains files for MOOCs completed by me.
 
 List of MOOCs:
 1. Machine Learning by Stanford University - [Course Link](https://www.coursera.org/learn/machine-learning) | [Certificate](https://www.coursera.org/account/accomplishments/verify/FGEZKVUUN3DE)
